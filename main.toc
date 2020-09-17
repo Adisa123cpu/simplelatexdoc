@@ -1,0 +1,10 @@
+\select@language {croatian}
+\contentsline {section}{\numberline {1}Stil dokumenta}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}Margine dokumenta}{1}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Zaglavlje i podno\IeC {\v z}je dokumenta}{2}{subsection.1.2}
+\contentsline {section}{\numberline {2}Matemati\IeC {\v c}ki mod i tabele}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}Matemati\IeC {\v c}ki mod}{2}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Tabele}{2}{subsection.2.2}
+\contentsline {section}{\numberline {3}Paketi za crtanje u \LaTeX -u}{3}{section.3}
+\contentsline {subsection}{\numberline {3.1}TikZ paket}{3}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Elektri\IeC {\v c}ne sheme i \texttt {\color {red}circuitikz} paket}{4}{subsection.3.2}
